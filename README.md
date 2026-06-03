@@ -440,13 +440,13 @@ Check the color HEX and Transmissivity values in the filament library. If a cust
 - **STL**: The 3D model file to be transferred to the slicer.
 - **FPPROJ / .fpproj**: The Filament Painting project file.
 
-## Project Files and Print Instructions
+
+## Showcase
+
+### Project Files and Print Instructions
 - **Download the Filament Painting Bookmark 2 CM.stl**
 - **Follow the print instructions**
 - **![Describe & Print Instructions](<describe.gif>)**
-
-
-## Showcase
 
 ### Videos
 

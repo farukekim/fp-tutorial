@@ -443,7 +443,7 @@ Check the color HEX and Transmissivity values in the filament library. If a cust
 
 ## Showcase
 
-### Project Files and Print Instructions
+### Example Project for Color Match Mode
 - **Download the Filament Painting Bookmark 2 CM.stl**
 - **Follow the print instructions**
 - **![Describe & Print Instructions](<describe.gif>)**

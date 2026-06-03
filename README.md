@@ -278,6 +278,7 @@ The Describe screen summarizes:
 - **Swap Instructions**: Which filament to switch to at which layer.
 
 You can use this screen as a pre-print checklist. When entering filament changes in the slicer, pay particular attention to the **Layer #** and height values.
+![Describe & Print Instructions](<describe.gif>)
 
 ## 16. Exporting STL
 
@@ -438,6 +439,12 @@ Check the color HEX and Transmissivity values in the filament library. If a cust
 - **Mesh Height**: The total target thickness of the model.
 - **STL**: The 3D model file to be transferred to the slicer.
 - **FPPROJ / .fpproj**: The Filament Painting project file.
+
+## Project Files and Print Instructions
+- **Download the Filament Painting Bookmark 2 CM.stl**
+- **Follow the print instructions**
+- **![Describe & Print Instructions](<describe.gif>)**
+
 
 ## Showcase
 

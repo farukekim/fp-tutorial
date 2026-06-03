@@ -277,6 +277,8 @@ Describe ekranı şunları özetler:
 
 Bu ekranı baskı öncesi kontrol listesi gibi kullanabilirsiniz. Dilimleyicide filament değişimlerini girerken özellikle **Layer #** ve yükseklik değerlerini takip edin.
 
+- **![Describe & Print Instructions](<describe.gif>)**
+
 ## 16. STL Dışa Aktarma
 
 1. Fotoğraf veya proje kaynağı yüklü olmalı.
@@ -438,6 +440,11 @@ Filament kütüphanesinde renk HEX ve Transmissivity değerlerini kontrol edin. 
 - **FPPROJ / .fpproj**: Filament Painting proje dosyası.
 
 ## Showcase
+
+### Color Match Mode Örnek Proje
+- **Filament Painting Bookmark 2 CM.stl dosyasını indirin**
+- **Baskı talimatlarını takip edin**
+- **![Describe & Print Instructions](<describe.gif>)**
 
 ### Videolar
 

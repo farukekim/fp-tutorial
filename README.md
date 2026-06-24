@@ -1,5 +1,5 @@
 [Türkçe Anlatım İçin Buraya Tıklayın](READMETR.md)
-
+[![Discord](https://img.shields.io/badge/Discord-Bize_Katıl-5865F2?logo=discord&logoColor=white)](https://discord.gg/8KQA8PSRN)
 # Filament Painting Usage Tutorial
 
 This tutorial explains the Filament Painting app from the first launch through STL export. The app is designed to turn photos into layered 3D filament art, plan filament transitions, preview the 3D mesh, save projects, and export STL files.

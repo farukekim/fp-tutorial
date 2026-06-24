@@ -1,3 +1,4 @@
+[![Discord](https://img.shields.io/badge/Discord-Bize_Katıl-5865F2?logo=discord&logoColor=white)](https://discord.gg/8KQA8PSRN)
 # Filament Painting Kullanım Tutoriali
 
 Bu tutorial, Filament Painting uygulamasını ilk açılıştan STL dışa aktarmaya kadar baştan sona anlatır. Uygulama; fotoğrafları katmanlı 3D filament sanatına dönüştürmek, filament geçişlerini planlamak, 3D mesh önizlemesi almak, proje kaydetmek ve STL dışa aktarmak için tasarlanmıştır.
